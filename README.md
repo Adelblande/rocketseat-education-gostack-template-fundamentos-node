@@ -4,8 +4,8 @@
  <img alt="GoStack" src="https://github.com/Adelblande/rocketseat-education-gostack-template-fundamentos-node/blob/master/assets/gostack.png">
 </p>
 <p align="center">
- <img alt="Node" src="https://github.com/Adelblande/rocketseat-education-gostack-template-fundamentos-node/blob/master/assets/nodejs.jpg" width="250">
- <img alt="TypeScript" src="https://github.com/Adelblande/rocketseat-education-gostack-template-fundamentos-node/blob/master/assets/typescript.jpeg" width="250">
+ <img alt="Node" src="https://github.com/Adelblande/rocketseat-education-gostack-template-fundamentos-node/blob/master/assets/nodejs.svg" width="250">
+ <img alt="TypeScript" src="https://github.com/Adelblande/rocketseat-education-gostack-template-fundamentos-node/blob/master/assets/typescript.svg" width="250">
 </p>
 
 ## Sobre o Desafio
